@@ -25,4 +25,4 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: mainline-alpine3.23-slim
+        image: nginx:mainline-alpine3.23-slim

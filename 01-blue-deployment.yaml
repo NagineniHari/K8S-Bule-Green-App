@@ -19,9 +19,9 @@ spec:
   template: 
     metadata:
       labels:
-      purpose: blue-green
-      project: safety
-      color: blue
+        purpose: blue-green
+        project: safety
+        color: blue
     spec:
       containers:
       - name: nginx
